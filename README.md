@@ -14,3 +14,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXRagn0kXx&layout=compact&theme=dark" alt="Lenguajes más usados" style="width: 50%;">
   </div>
 </div>
+
+
+<div align=center>
+  <img width=52% src="https://github-readme-stats.vercel.app/api?username=xXRagn0kXx&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXRagn0kXx&theme=react&show_icons=true&hide_border=true&layout=compact" />
+</div>
