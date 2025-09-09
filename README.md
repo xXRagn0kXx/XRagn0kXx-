@@ -1,7 +1,7 @@
 <div align="center">
   <h1>xXRagn0kXx</h1>
   ![xXRagnokXx_Cover](images/xXRagnokXx_Cover.png)
-  <img src="images/xXRagn0kXx_Cover.png">
+  <img src="images/xXRagn0kXx_Cover.png"/>
 /div>
 
 
