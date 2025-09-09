@@ -1,6 +1,7 @@
 <div align="center">
   <h1>xXRagn0kXx</h1>
   <img src="images/xXRagn0kXx_Cover.png" alt="xXRagnokXx_Cover"/>
+  ![xXRagnokXx_Cover](images/xXRagnokXx_Cover.png)
 </div>
 
 
