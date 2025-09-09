@@ -1,6 +1,7 @@
 <div align="center">
   <h1>xXRagn0kXx</h1>
   <img src="images/xXRagn0kXx_Cover.png" alt="xXRagnokXx_Cover"/>
+  <img src="https://raw.githubusercontent.com/xXRagn0kXx/xXRagn0kXx/main/images/xXRagn0kXx_Cover.png" alt="xXRagnokXx_Cover"/>
 </div>
 
 
