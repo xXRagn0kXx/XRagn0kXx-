@@ -1,6 +1,6 @@
 <div align="center">
   <h1>xXRagn0kXx</h1>
-  <img src="images/xXRagn0kXx_Cover.png" alt="xXRagn0kXx_Cover"/>
+  <img src="./images/xXRagn0kXx_Cover.png" alt="xXRagn0kXx_Cover"/>
 </div>
 
 
